@@ -1,1 +1,1 @@
-# 2024-1-P1-Avaliacao-de-Modelo-para-Classificacao-de-Cancer-de-Mama-Usando-o-Conjunto-de-Dados-NKI
+# Avaliação de Modelo para Classificação de Câncer de Mama Usando o Conjunto de Dados NKI
