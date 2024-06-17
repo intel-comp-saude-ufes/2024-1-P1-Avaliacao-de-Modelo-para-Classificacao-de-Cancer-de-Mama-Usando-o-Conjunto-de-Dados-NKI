@@ -89,6 +89,7 @@ Os seguintes parâmetros podem ser passados para main.py:
 - **--lr_decay**: Fator de decaimento da taxa de aprendizado (default: 2).
 - **--step_size**: Número de épocas antes de aplicar o decaimento da taxa de aprendizado (default: 100).
 - **--epochs**: Número máximo de épocas para treinamento (default: 5000).
+- **--bad_train**: Habilita a formacao de um conjuntos de dados ruim para testes.
 
 ## Resultados
 
